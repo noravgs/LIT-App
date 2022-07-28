@@ -128,3 +128,15 @@ input:hover{
 	box-shadow: 0 0 #b10550;
 	top: 6px;
 }
+
+@media (min-width: 600px) and (max-width: 768px) {
+	body *{
+		display: flex;
+		justify-content: center;
+		
+	}
+	
+	.fa-thumbs-up{
+		font-size: 3em;
+	}
+}
