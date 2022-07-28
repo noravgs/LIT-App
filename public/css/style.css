@@ -136,31 +136,31 @@ input:hover{
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: auto;
+		padding: 15px;
 		font-size: 1rem;
 		
 	}
 
-	.fa{
+	/* .fa{
 		display: flex;
 		padding: 10px;
 		flex-direction: column; 
-		/* justify-content: center; */
-	}
+		justify-content: center;
+	} */
 
-	span{
+	/* span{
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-	}
-	.fa-thumbs-up{
+	} */
+	/* .fa-thumbs-up{
 
 
 		font-size: 1em;
-	}
+	} */
 
-	.fa-trash{
+	/* .fa-trash{
 		
 		font-size: 1em;
-	}
+	} */
 }
