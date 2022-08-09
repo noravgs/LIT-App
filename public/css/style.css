@@ -23,9 +23,9 @@ body{
  flex-direction: column;
  justify-content: center;
  align-items: center;
- margin: 0;
+ margin: 10px;
  height: 100vh;
- padding: 10px;
+ padding: 30px;
 
  box-sizing: border-box;
  background-color: var(--color-primary);
@@ -41,6 +41,19 @@ body{
 	font-size: 1rem;
 	/* letter-spacing: 1px; */
 
+	/* width: 110px;
+	height: 110px; */
+	/* overflow-wrap: break-word; */
+
+}
+
+ul{
+	height: 300px;
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+	overflow: hidden;
+	overflow-y: scroll;
 }
 
 input[type=text] {
@@ -171,3 +184,8 @@ input:hover{
 		font-size: 1em;
 	} */
 }
+/* div > .container{
+	width: 110px;
+	height: 110px;
+	overflow: scroll;
+} */
