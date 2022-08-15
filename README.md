@@ -1,9 +1,9 @@
 # Rainbow Reads
 Using MongoDB to store books and EJS the user can add a book with an LGBTQA+ theme and like what other users have added. 
 
-<!-- **Link to project:** https://noravgs.github.io/concert-todo/ -->
+**Link to project:** https://rainbow-reads.herokuapp.com/
 
-![alt tag]()
+![image](https://github.com/noravgs/LIT-App/blob/main/public/images/rainbowreads.gif?raw=true)
 
 ## How It's Made:
 
